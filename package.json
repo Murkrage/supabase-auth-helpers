@@ -56,7 +56,6 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^1.30.0",
-    "@supabase/ui": "^0.36.3",
     "tslib": "^2.3.1"
   },
   "peerDependencies": {
